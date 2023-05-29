@@ -1,0 +1,7 @@
+POST http://localhost:8080/messages
+content-type: application/json
+
+{
+    "name": "samples",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
